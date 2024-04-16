@@ -1,0 +1,37 @@
+.Header{
+    background-color:rgb(197, 197, 197);
+    height:100px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 20px;
+}
+
+nav{
+    text-align: center;
+    font-size: 20px;
+    background-color: rgb(119, 116, 116);
+    height:40px;
+    line-height:40px;
+}
+nav a{
+    color:whitesmoke;
+}
+.Body{
+    background-color: rgb(197, 197, 197);
+    padding: 15px;
+}
+.Footer{
+    text-align: center;
+    font-size: 20px;
+    background-color: rgb(119, 116, 116);
+    height:40px;
+    line-height:40px;
+   
+}
+.Footer a{
+    color:whitesmoke;
+}
+
+.Common{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
